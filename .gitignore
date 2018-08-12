@@ -32,3 +32,6 @@
 #Ignore vendor directory
 /vendor
 
+#Ignore .env files
+/.env*
+!/.env.example
